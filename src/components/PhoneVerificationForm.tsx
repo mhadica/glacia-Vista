@@ -208,8 +208,7 @@ const PhoneVerificationForm = ({
         <h2 className="text-2xl font-bold text-blue-800 mb-2">
           Welcome to Glacia Vista
         </h2>
-        <p className="text-blue-600">Please verify your registration</p>
-      </motion.div>
+        
 
       <Form {...form}>
         <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
