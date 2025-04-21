@@ -82,14 +82,12 @@ const StudentDetailsPage = () => {
             Welcome to Glacia Vista Vacation Camp!
           </h2>
           <p className="text-blue-700 mb-4">
-            We're thrilled to have you join us for an unforgettable winter
-            adventure. Your registration has been confirmed and all details are
+            We're thrilled to have you join us for an unforgettable adventure. 
+            Your registration has been confirmed and all details are
             now available in your student profile.
           </p>
           <p className="text-blue-700 mb-4">
-            Please make sure to arrive at the camp location by 9:00 AM on the
-            first day. Don't forget to bring warm clothes, a water bottle, and
-            your excitement for fun activities!
+            Please make sure to arrive at the camp location.Don't forget to bring your excitement for fun activities!
           </p>
           <div className="mt-6 pt-4 border-t border-blue-100">
             <p className="text-blue-600 font-medium">
