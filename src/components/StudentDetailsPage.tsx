@@ -52,7 +52,7 @@ const StudentDetailsPage = () => {
             <ArrowLeft size={24} />
           </Button>
           <h1 className="text-3xl font-bold text-white text-center flex-1 mr-10">
-            Glacia Vista
+            Congratulations
           </h1>
         </div>
       </motion.div>
